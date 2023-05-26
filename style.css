@@ -6,8 +6,5 @@
     font-size: 24px;
 }
 .logo {
-    margin: 0 auto;
-    display: block;
     max-width: 150px;
-    border-radius: 50%;
 }
